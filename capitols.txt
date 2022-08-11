@@ -1,0 +1,6 @@
+Eastern United States  (681,671) 
+Egypt  (2884,1692) 
+Benelux  (2184,755) 
+Jehol  (4890,799) 
+United Kingdom  (2008,602) 
+Russia  (3465,520) 

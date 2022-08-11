@@ -1,0 +1,3 @@
+map_name: modern_warfare
+games:
+- {game_name: Modern Warfare, file_name: modern_warfare.xml}
