@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version="1.01"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-  <info name="Modern Warfare" version="1.0"/>
+  <info name="Modern Warfare" version="1.01"/>
   <triplea minimumVersion="2.5"/>
   <diceSides value="6"/>	
 <map>
@@ -2002,11 +2002,10 @@
       <option name="transportCost" value="3"/>
       <option name="movement" value="2"/>
       <option name="attackAA" value="1"/>
-	  <option name="offensiveAttackAA" value="1"/>
+	  <option name="offensiveAttackAA" value="2"/>
 	  <option name="typeAA" value="GunDish"/>
 	  <option name="targetsAA" value="Fighter:MultiRole:CargoPlane:Helicopter"/>
 	  <option name="maxAAattacks" value="2"/>
-	  <option name="offensiveAttackAAmaxDieSides" value="2"/>
     </attachment>
 	<!-- Strategic Air Lifter -->
     <attachment name="unitAttachment" attachTo="CargoPlane" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
